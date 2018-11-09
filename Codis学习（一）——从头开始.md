@@ -16,9 +16,12 @@ Codis是一个用Go编写的分布式、高性能Redis集群解决方案。并�
 
 ****
 ## 今日内容预览
-* [scan功能简介](#scan功能简介)
-* [python多线程简介](#python多线程简)
-* [scan+多线程集群遍历实现](#scan+多线程集群遍历实现)
+* [与Twemproxy和Redis-Cluster对比](#与Twemproxy和Redis-Cluster对比)
+* [Codis特性](#Codis特性)
+* [Codis组成](#Codis组成)
+* [codis的分片](#codis的分片)
+* [关于迁入codis](#关于迁入codis)
+* [codis不支持的命令列表](#codis不支持的命令列表)
 
 
 
