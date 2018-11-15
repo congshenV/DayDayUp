@@ -19,14 +19,14 @@
 
 ****
 ## 今日内容预览
-* [keepalived配置简介](#LVS配置简介)
+* [keepalived配置简介](#keepalived配置简介)
 * [线上keepalived变更流程](#线上keepalived变更流程)
 * [关于priority探究](#关于priority探究)
 
 
 
 
-### pipeline简介
+### keepalived配置简介
 -----------
 keepalived有三类配置区域(姑且就叫区域吧)，注意不是三种配置文件，是一个配置
 文件里面三种不同类别的配置区域：
